@@ -6,7 +6,7 @@ Biblioteca foi desenvolvida como atividade prática da disciplina **Introdução
 
 ## Objetivo
 
-O objetivo desta biblioteca é aprimorar o domínio de Python e NumPy por meio de um projeto prático. Ela foi desenvolvida para demonstrar a geração de dados aleatórios utilizando o submódulo `numpy.random` e a solução de problemas de álgebra linear com o `numpy.linalg`
+O objetivo desta biblioteca é aprimorar o domínio de Python e NumPy por meio de um projeto prático. Que foi desenvolvido para demonstrar a geração de dados aleatórios utilizando o submódulo `numpy.random` e a solução de problemas de álgebra linear com o `numpy.linalg`
 
 ---
 
@@ -29,18 +29,18 @@ O objetivo desta biblioteca é aprimorar o domínio de Python e NumPy por meio d
 ---
 
 ## Exemplos de Uso
-O arquivo main.py demonstra como utilizar todas as funcionalidades da biblioteca. Para rodar o exemplo, basta executar o script.
+O arquivo `main.py` demonstra como utilizar todas as funcionalidades da biblioteca. Para rodar o exemplo, basta executar o script.
 
 ---
 
 ## Instruções de instalação
 ### clonar este repositório para o seu ambiente local:
 
-git clone https://github.com/Aila13/Prova-02-Disciplina-Softwares-Estatisticos--UFPB.git
+- git clone https://github.com/Aila13/Prova-02-Disciplina-Softwares-Estatisticos--UFPB.git
 
 ### Assegure-se de que a biblioteca NumPy esteja instalada:
 
-pip install numpy
+- pip install numpy
 
 ### Execute o arquivo main.py
 
